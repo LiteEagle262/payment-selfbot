@@ -1,0 +1,11 @@
+{
+	"token": "tokenhere",
+	"prefix": ".",
+	"paypal": "paypalhere",
+	"cashapp": "cashapphere",
+	"btc": "btc_addy_here",
+	"ltc": "ltc_addy_here",
+	"xmr":	"xmr_addy_here",
+	"doge": "dogecoin_addy_here",
+	"eth": "eth_addy_here"
+}
